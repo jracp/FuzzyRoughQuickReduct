@@ -17,10 +17,10 @@ To compile this program follow these steps:
 3. To improve its performance one can use `-O1` or `-O2` or `-O3`
 4. Ignore the following warning message:
 
-FRQR.cpp:238:14: warning: expression result unused [-Wunused-value]
-for (s;s<cls[nCls];++s) {
-^
-1 warning generated.
+  FRQR.cpp:238:14: warning: expression result unused [-Wunused-value]
+  for (s;s<cls[nCls];++s) {
+  ^
+  1 warning generated.
 
 ## Run
 To run the program use `./FRQR {a dataset name}`
