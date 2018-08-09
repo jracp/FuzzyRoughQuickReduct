@@ -5,9 +5,7 @@ date: '08/02/18'
 ---
 
 ## Use case
-To determine the most important features using the algorithm described in "New Approaches to Fuzzy-Rough Feature Selection" by Richard Jensen and Qiang Shen
-
-Here is a link to the paper: http://ieeexplore.ieee.org/document/4505335/
+To determine the most important features using the algorithm described in [New Approaches to Fuzzy-Rough Feature Selection](http://ieeexplore.ieee.org/document/4505335/) by Richard Jensen and Qiang Shen
 
 ## Compile
 To compile this program follow these steps:
